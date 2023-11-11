@@ -638,7 +638,9 @@ MonoBehaviour:
   playerPrefab: {fileID: 3526111692601373068, guid: d32cd24f901ee944ea65b1393124f6ae, type: 3}
   enemyOnePrefab: {fileID: 7135856955845734515, guid: 0059f3b5bf583384c97db9a24bb61b66, type: 3}
   cloudPrefab: {fileID: 5962211338321189265, guid: 2aa5a463c43b66640881fb97ef1000b8, type: 3}
+  lifePrefab: {fileID: 1273823478141126424, guid: a0addd80e960f3f41a0dedb4424ec766, type: 3}
   score: 0
+  lives: 0
   cloudsMove: 0
   scoreText: {fileID: 191034276}
   livesText: {fileID: 2097065667}

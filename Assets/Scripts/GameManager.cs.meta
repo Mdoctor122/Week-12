@@ -3,7 +3,13 @@ guid: 0a8f3bb7954e09c4594a5ddcee87d73d
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - playerPrefab: {instanceID: 0}
+  - enemyOnePrefab: {instanceID: 0}
+  - cloudPrefab: {instanceID: 0}
+  - lifePrefab: {fileID: 1273823478141126424, guid: a0addd80e960f3f41a0dedb4424ec766, type: 3}
+  - scoreText: {instanceID: 0}
+  - livesText: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

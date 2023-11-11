@@ -68,4 +68,16 @@ public class Player : MonoBehaviour
             Destroy(this.gameObject);
         }
     }
+
+    public void GainLife()
+    {
+        lives += 1;
+        livesText.text = "Lives:" + lives;
+        if (lives >= 3) 
+        {
+            //hopefully this keeps it at 3 lives
+            lives = 3;
+            livesText.text = "Lives:" + lives;
+        }
+    }
 }
