@@ -8,6 +8,7 @@ MonoImporter:
   - enemyOnePrefab: {instanceID: 0}
   - cloudPrefab: {instanceID: 0}
   - lifePrefab: {fileID: 1273823478141126424, guid: a0addd80e960f3f41a0dedb4424ec766, type: 3}
+  - coinPrefab: {fileID: 2564742021753443796, guid: 52707af2181513a4da4478e98b20a424, type: 3}
   - scoreText: {instanceID: 0}
   - livesText: {instanceID: 0}
   executionOrder: 0
